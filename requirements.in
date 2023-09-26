@@ -1,0 +1,7 @@
+numpy
+matplotlib
+seaborn==0.10.1
+pandas
+cobra
+markupsafe==2.0.1
+Escher
