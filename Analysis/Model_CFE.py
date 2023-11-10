@@ -16,7 +16,7 @@ from cobra.io import read_sbml_model
 from cobra import Reaction, Metabolite
 
 #Reading the model
-iMM904=read_sbml_model("Analysis/iMM904.xml")
+iMM904=read_sbml_model("iMM904.xml")
 
 #Adding the metabolites from the heterologous 
 
