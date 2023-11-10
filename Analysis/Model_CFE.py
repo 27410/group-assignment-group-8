@@ -37,15 +37,16 @@ artemisinic_acid= Metabolite(id = 'AA', compartment='c', name='artemisinic_acid'
 
 
 
-cytochrome_P450_enzyme_oxidation= Reaction('CYP71AV1')
-CPR1_Oxidation=Reaction('CPR')
+#cytochrome_P450_enzyme_oxidation= Reaction('CYP71AV1')
+#CPR1_Oxidation=Reaction('CPR')
 
-CPR_CYP = Reaction("CPR1_CYP71AV1")
 
 # We will look apart from this since it is not a part of the heterologues pathway.
 #CYB5_oxidation=Reaction('CYB5')
 
 Amorpha_synthase=Reaction('ADS')
+
+CPR_CYP = Reaction("CPR1_CYP71AV1")
 
 Alcohol_dehydrogenase_1=Reaction('ADH1')
 
