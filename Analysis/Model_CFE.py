@@ -9,7 +9,7 @@ from cobra.io import read_sbml_model
 from cobra import Reaction, Metabolite
 
 
-iMM904=read_sbml_model("C:/Users/Driton/Desktop/DTU/Kandidat/Cell_factory_design/Cell_factory_engenering/iMM904-kopi.xml")
+iMM904=read_sbml_model("data/iMM904.xml")
 
 #AMOR =amorphadiene
 amorphadiene = Metabolite(id = 'AMOR', compartment='c', name='amorphadiene', formula='C15H24')
