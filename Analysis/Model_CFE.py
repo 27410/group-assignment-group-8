@@ -5,6 +5,13 @@ Created on Fri Nov 10 09:46:18 2023
 @author: Driton
 """
 
+##Article with pathway steps https://www.frontiersin.org/articles/10.3389/fpls.2018.00087/full
+##ADS: https://www.uniprot.org/uniprotkb/Q9AR04/entry
+##CPR: https://www.uniprot.org/uniprotkb/A0A2U1LIM9/entry
+##CYP71AV1: https://www.uniprot.org/uniprotkb/Q1PS23/entry
+##ADH1: https://www.uniprot.org/uniprotkb/A0A2U1Q018/entry 
+##ALDH1:https://www.uniprot.org/uniprotkb/C5I9X1/entry
+
 from cobra.io import read_sbml_model
 from cobra import Reaction, Metabolite
 
@@ -46,7 +53,7 @@ Aldehyde_dehydrogenase_1=Reaction('ALDH1')
 
 #insert metabolic equasions
 
-Amorpha_synthase.add_metabolites(({iMM904.metabolites.frdp_c:-1,amorphadiene:1}))
+Amorpha_synthase.add_metabolites(({iMM904.metabolites.frdp_c:-1,amorphadiene:1,iMM904.metabolites.ppi_c:1}))
 
 CPR_CYP.add_metabolites(({amorphadiene: -1,iMM904.metabolites.o2_c: -1,iMM904.metabolites.nadph_c:-1,iMM904.metabolites.h_c: -1,iMM904.metabolites.h2o_c: 1,iMM904.metabolites.nadp_c:1,artemisinic_alcohol:1}))
 
