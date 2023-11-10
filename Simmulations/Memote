@@ -1,9 +1,0 @@
-import cobra.io
-import matplotlib.pyplot
-from cobra.io import read_sbml_model, write_sbml_model
-from cobra import Reaction, Metabolite
-Model_1=read_sbml_model("C:/Users/Driton/Desktop/DTU/Kandidat/Cell_factory_design/Cell_factory_engenering/iND750.xml")
-
-Model_2=read_sbml_model("C:/Users/Driton/Desktop/DTU/Kandidat/Cell_factory_design/Cell_factory_engenering/iMM904-kopi.xml")
-
-
