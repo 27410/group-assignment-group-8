@@ -5,7 +5,7 @@ Created on Fri Nov 10 09:46:18 2023
 @author: Driton
 """
 
-##Article with pathway steps https://www.frontiersin.org/articles/10.3389/fpls.2018.00087/full
+##Article with pathway steps https://www.frontiersin.org/articles/10.3389/fpls.2018.00087/full https://www.sciencedirect.com/science/article/pii/B9780444639318000059 
 ##ADS: https://www.uniprot.org/uniprotkb/Q9AR04/entry
 ##CPR: https://www.uniprot.org/uniprotkb/A0A2U1LIM9/entry
 ##CYP71AV1: https://www.uniprot.org/uniprotkb/Q1PS23/entry
