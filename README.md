@@ -12,7 +12,9 @@ A summary of what we achieved in this project:
 - Computed co-factor swapping
 - Computed gene knockouts
 - Computed media optimization 
-- Computed gene regulation targets 
+- Computed gene regulation targets
+- Computed dFBA simulations
+- Computed Phase plan plot 
 
 
 ## Project overview
