@@ -3,17 +3,9 @@
 
 # 27410 - Group assignment - Group 8 - Artemisinic acid production in Saccharomyces cerevisiae
 
-> Dear students, thank you for accepting the group assignment. Please fill in the
-> requested information below and above ([Group Number] and [TITLE]) and remove this quoted part before submission (everything prepended with a >).
-> Please also replace `[PUT-YOUR-REPOSITORY-HERE]` up in the first line 👆 with the name of your repository here on GitHub.
-> That way someone can click on the Binder badge icon and open your project in Jupyter lab to explore it.
-> For this to work you will also have to keep `requirements.txt` up to date (by running `pip freeze > requirements.txt`).
-> Furthermore, this will only work if you decide to make your repository public (which you can do under Settings -> Options),
-> which I would encourage you to do – up to you. A lot of good science happens out in the open these days.
-> Good luck!
 
 ## Project summary (<300 words)
-The aim of this project is to introduce a heterologous biosynthetic pathway for artemisinic acid production in an existing GSM of Saccharomyces cerevisiae, iMM904. The project utilizes various computational methods to optimize production for artemisinic acid. Phase plane plot analysis and media optimization revealed that sucrose is the optimum carbon source for production of artemisinic acid. Many gene upregulations were identified, with many from the MVA pathway which was already established in literature to increase artemisinic acid production. Some alternative upregulation targets were also identified and need to be investigated further in vitro. Three cofactor swap reactions were identified as potential targets to increase NAD(P) availability which could increase the production of artemisinic acid. Most knockouts conducted did not improve production of artemisinic acid however knocking out ATPM resulted in a increase of 0.03 mmol AA/gDW*h. 
+The aim of this project is to introduce a heterologous biosynthetic pathway for artemisinic acid production in an existing GSM of *Saccharomyces cerevisiae*, iMM904. The project utilizes various computational methods to optimize production for artemisinic acid. Phase plane plot analysis and media optimization revealed that sucrose is the optimum carbon source for production of artemisinic acid. Many gene upregulations were identified, with many from the MVA pathway which was already established in literature to increase artemisinic acid production. Some alternative upregulation targets were also identified and need to be investigated further in vitro. Three cofactor swap reactions were identified as potential targets to increase NAD(P) availability which could increase the production of artemisinic acid. Most knockouts conducted did not improve production of artemisinic acid however knocking out ATPM resulted in a increase of 0.03 mmol AA/gDW*h. 
 
 A summary of what we achieved in this project:
 - Inserted a heterologous artemisinic acid pathway in saccharomyces cerevisiae using a GSM model and used various methods to improve the theoretical artemisinic acid yield.
