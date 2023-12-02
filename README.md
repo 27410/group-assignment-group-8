@@ -14,7 +14,7 @@ A summary of what we achieved in this project:
 - Computed media optimization 
 - Computed gene regulation targets
 - Computed dFBA simulations
-- Computed Phase plan plot
+- Computed phase plan plots
 - Constructed a metabolic map for the production of farnesyl diphosphate
 
 
