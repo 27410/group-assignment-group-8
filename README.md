@@ -14,7 +14,7 @@ A summary of what we achieved in this project:
 - Computed media optimization 
 - Computed gene regulation targets
 - Computed dFBA simulations
-- Computed Phase plan plot 
+- Computed Phase plan plot
 
 
 ## Project overview
