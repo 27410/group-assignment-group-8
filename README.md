@@ -10,7 +10,7 @@ The aim of this project is to introduce a heterologous biosynthetic pathway for 
 A summary of what we achieved in this project:
 - Inserted a heterologous artemisinic acid pathway in saccharomyces cerevisiae using a GSM model and used various methods to improve the theoretical artemisinic acid yield.
 - Computed co-factor swapping
-- Computed gene knockouts
+- Computed gene knockouts and knockout strategies 
 - Computed media optimization 
 - Computed gene regulation targets
 - Computed dFBA simulations
