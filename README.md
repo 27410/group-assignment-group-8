@@ -16,10 +16,10 @@ A summary of what we achieved in this project:
 
 
 ## Project overview
-- Our project is organized with two folders in the main folder. All of our work and analysis of the GSM, iMM904 and iND750, including the model, is found in the Analysis folder.
-- The report is found in the Report.ipynb notebook, and contains links to the specific notebooks in the Analysis folder.
-- The pictures used in the report are placed in the Pictures folder, found in the Analysis folder.
-- The appendix is found in the file 11_Appendix under the Analysis folder.
+- Our project is organized with two folders in the main folder. All of our work and analysis of the GSM, iMM904 and iND750, including the modfied model, is found in the Analysis folder.
+- The report is found in the Report.ipynb notebook, and contains links to the specific notebooks in the Analysis folder for each diffrent computational analysis.
+- The pictures used in the report are placed in the Pictures folder, this folder is found in the Analysis folder.
+- The appendix is found in the file 11_Appendix in the Analysis folder.
 
 
 
